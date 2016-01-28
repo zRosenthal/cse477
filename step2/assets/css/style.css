@@ -1,0 +1,77 @@
+body {
+
+    background-image: url("../img/cave-background.jpg");
+    background-color: black;
+    background-position: center top;
+    background-repeat: no-repeat;
+    width: 650px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Arial", Serif;
+}
+
+article {
+
+    padding-bottom: 1em;
+    background-color: white;
+
+}
+
+header {
+    margin: 0 auto;
+    width: 650px;
+    background-color: #3f3622; /*also for links under pics*/
+}
+header h1 {
+    padding: 1em 0 .3em 0;
+    color: white;
+    font-size: 3em;
+}
+article section {
+
+    margin: 0 auto;
+
+    padding-top: .5em;
+    padding-bottom: .5em;
+    font-size: 1.5em;
+    font-weight: 100;
+}
+
+.main-img {
+
+    width: 600px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: .25em;
+
+}
+
+em {font-size: 1.25em;}
+
+section a {color: #3f3622;}
+
+.room p {font-size: .75em;}
+
+.button {}
+
+nav p {
+    float: right;
+    margin: .25em
+}
+nav a {
+    color: white;
+    margin: 0 .25em;
+}
+
+div.room {
+    width: 200px;
+    display: inline-block;
+}
+
+
+.instructions p {
+    font-size: .75em;
+    font-family: "Times New Roman", sans-serif;
+    margin: 1em .5em;
+    text-align: left;
+}
